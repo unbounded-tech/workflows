@@ -7,6 +7,7 @@ This repository contains links to all Unbounded workflow repositories.
 | Repository | URL |
 |------------|-----|
 | containers | [https://github.com/unbounded-tech/workflows-containers](https://github.com/unbounded-tech/workflows-containers) |
+| gitops | [https://github.com/unbounded-tech/workflows-gitops](https://github.com/unbounded-tech/workflows-gitops) |
 | runs-on | [https://github.com/unbounded-tech/runs-on](https://github.com/unbounded-tech/runs-on) |
 | rust | [https://github.com/unbounded-tech/workflows-rust](https://github.com/unbounded-tech/workflows-rust) |
 | simple-release | [https://github.com/unbounded-tech/workflow-simple-release](https://github.com/unbounded-tech/workflow-simple-release) |
