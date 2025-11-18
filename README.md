@@ -8,6 +8,7 @@ This repository contains links to all Unbounded workflow repositories.
 |------------|-----|
 | containers | [https://github.com/unbounded-tech/workflows-containers](https://github.com/unbounded-tech/workflows-containers) |
 | crossplane | [https://github.com/unbounded-tech/workflows-crossplane](https://github.com/unbounded-tech/workflows-crossplane) |
+| helm | [https://github.com/unbounded-tech/workflows-helm](https://github.com/unbounded-tech/workflows-helm) |
 | gitops | [https://github.com/unbounded-tech/workflows-gitops](https://github.com/unbounded-tech/workflows-gitops) |
 | runs-on | [https://github.com/unbounded-tech/runs-on](https://github.com/unbounded-tech/runs-on) |
 | rust | [https://github.com/unbounded-tech/workflows-rust](https://github.com/unbounded-tech/workflows-rust) |
